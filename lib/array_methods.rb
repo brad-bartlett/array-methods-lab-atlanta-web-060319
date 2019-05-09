@@ -1,4 +1,6 @@
 def using_include(array, element)
+  Array.new = ["ada", "bob", "russ"]
+  array.include?("Ada")
 
 end
 
