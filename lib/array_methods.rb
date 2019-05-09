@@ -13,6 +13,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  famous_cats = ["Ada", "Bob", "Russ"]
   famous_cats.first
 end
 
