@@ -1,11 +1,11 @@
+famous_cats = ["Ada", "Bob", "Russ"]
 def using_include(array, element)
-  famous_cats = ["Ada", "Bob", "Russ"]
   famous_cats.include?("Ada")
 
 end
 
 def using_sort(array)
-
+  fam
 end
 
 def using_reverse(array)
