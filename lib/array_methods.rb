@@ -1,6 +1,6 @@
 def using_include(array, element)
   famous_cats = ["Ada", "Bob", "Russ"]
-  famous_cats.include?("Ada")
+  famous_cats.include?("Sandy")
 
 end
 
